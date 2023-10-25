@@ -1,7 +1,6 @@
 /*
- * Author:
- * Date:
- * Name:
+ * Mirzohid Abdurazzoqov:
+ * 25.10.2023:
  */
 #include <string>
 using namespace std;
